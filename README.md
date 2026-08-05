@@ -11,7 +11,7 @@ O projeto realiza a leitura automática de planilhas Excel contendo os alunos de
 
 ## 📸 Exemplo
 
-![Etiquetas](images/exemplo.png)
+![Etiquetas](images/example.png)
 
 ---
 
